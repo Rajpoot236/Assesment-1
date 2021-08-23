@@ -1,0 +1,38 @@
+body{
+
+}
+h2{
+    color: red;
+    font-style: oblique; 
+}
+ol{
+    line-height: 30px;
+}
+li{
+    color: brown;
+    
+}
+ul{
+    letter-spacing: 5px;
+}
+p{
+   color: brown;
+}
+h3{
+    color: red;
+
+}
+h5{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+a{
+    display: inline;
+    text-decoration: none;
+}
+button{
+    color: rgb(20, 220, 53);
+    background-color: yellow;
+}
+
